@@ -73,3 +73,7 @@ weighted avg       0.91      0.91      0.91     10000
 ```
 
 ---
+
+The model that yields **the best results** appears to be **the New Model (MaxPooling)**. This model stands out with the lowest training loss and the highest training accuracy. Additionally, the validation loss and validation accuracy are also at satisfactory levels. Therefore, this model seems to have performed better compared to the others.
+
+***Please note*** that evaluating additional metrics such as the classification report or performance on the test dataset is important for a comprehensive comparison.
